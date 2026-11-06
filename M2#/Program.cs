@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Text;
 
-namespace _06_Arrays
+namespace m3sharp
 {
     internal class Program
     {
